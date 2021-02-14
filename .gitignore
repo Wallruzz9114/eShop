@@ -1,0 +1,5 @@
+src/backend/.vscode
+src/backend/Utilities/bin
+src/backend/Utilities/obj
+src/backend/Tests/bin
+src/backend/Tests/obj
